@@ -1,2 +1,2 @@
 # Statistical-Learning
-Statistical/Machine Learning techniques applied on different available datasets.
+Statistical/Machine Learning techniques applied on different Online available datasets.
